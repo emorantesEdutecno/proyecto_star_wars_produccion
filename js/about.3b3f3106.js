@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproyecto_star_wars"]=self["webpackChunkproyecto_star_wars"]||[]).push([[443],{782:function(r,t,a){a.r(t),a.d(t,{default:function(){return l}});var n=a(252);const s={class:"about"},e=(0,n._)("h1",null,"This is an about page",-1),u=[e];function c(r,t){return(0,n.wg)(),(0,n.iD)("div",s,u)}var o=a(744);const i={},f=(0,o.Z)(i,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.3b3f3106.js.map
